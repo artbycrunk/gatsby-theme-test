@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "gatsby-theme-test-blog",
+  "version": "1.0.0",
+  "author": "Savio Fernandes <artbycrunk@gmail.com>",
+  "main": "index.js",
+  "devDependencies": {
+    "gatsby": "^2.3.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.3.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "site",
+  "version": "1.0.0",
+  "author": "Savio Fernandes <artbycrunk@gmail.com>",
+  "main": "",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby": "^2.3.3",
+    "gatsby-theme-test-blog": "*",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
